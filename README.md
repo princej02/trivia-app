@@ -18,7 +18,7 @@ The Trivia Game website is built using the following technologies:
 
 - **Frontend**:
 - React.js (with TypeScript)
-- Vite (for fast development and building)
+- Vite PWA (for fast development and building)
 - SCSS (for styling)
 
 - **Backend**:
